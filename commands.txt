@@ -1,0 +1,13 @@
+travelled
+show
+move 10
+move 20
+turnleft 20
+move 20
+move 30
+turnleft 30
+move 30
+move 30
+show
+within 2
+travelled
