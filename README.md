@@ -1,4 +1,4 @@
-# RobotWar
+# robot-war
  Robot war created using C++ object-oriented concepts.
  
  Each robot belongs to a team and can move on a x-y axis. 
