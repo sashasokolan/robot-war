@@ -1,5 +1,5 @@
 # robot-war
- Robot war created using C++ object-oriented concepts.
+ Robot war C++ program that runs on a terminal.
  
  Each robot belongs to a team and can move on a x-y axis. 
  The robots are initiated in start.txt, where each line includes the robot number, its team, and its initial coordinates.
